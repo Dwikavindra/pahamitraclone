@@ -8,7 +8,8 @@ function App() {
   return (
     <div class=" bg-blue-100">
       <NavBar></NavBar>
-      <Pahamitra />
+      <Pahamitra></Pahamitra>
+      <KataPahamitra></KataPahamitra>
     </div>
   );
 }
