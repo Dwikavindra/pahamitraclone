@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import NavBar from "./NavBar.js";
 import Pahamitra from "./Pahamitra";
+import KataPahamitra from "./KataPahamitra";
 
 function App() {
   return (
